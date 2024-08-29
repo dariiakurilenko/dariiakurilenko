@@ -7,6 +7,9 @@
 ### 👩🏼‍💻About me :
 I'm a frontend developer eager to learn new technologies and build amazing web experiences. Currently studying at the university (3/5). I appreciate teamwork and am ready to adapt to changes in order to achieve goals with the team.
 
+
+<img src = 'https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif' alt='code' height='300px' width='100%'>
+
 <h2>💻My tech stack:</h2>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;

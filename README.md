@@ -1,5 +1,6 @@
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTQ2dDRmMTc3dTZmMHN0Z2p1ZmRiZjRqaHNzajl5MjczaWlid2RoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="code" height="400" width="100%">
-
+<div align="center">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTQ2dDRmMTc3dTZmMHN0Z2p1ZmRiZjRqaHNzajl5MjczaWlid2RoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="code" height="300" width="600">
+</div>
 <h1 align='center'>
   console.log('Hello, world!') <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand"/> <br><br>
   My name is Daria and I am frontend developer

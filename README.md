@@ -1,3 +1,5 @@
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTQ2dDRmMTc3dTZmMHN0Z2p1ZmRiZjRqaHNzajl5MjczaWlid2RoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="code" height="400" width="100%">
+
 <h1 align='center'>
   console.log('Hello, world!') <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand"/> <br><br>
   My name is Daria and I am frontend developer
@@ -7,8 +9,6 @@
 ### 👩🏼‍💻About me :
 I'm a frontend developer eager to learn new technologies and build amazing web experiences. Currently studying at the university (3/5). I appreciate teamwork and I am ready to adapt to changes in order to achieve goals with the team.
 
-
-<img src = 'https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif' alt='code' height='300px' width='100%'>
 
 <h2>💻My tech stack:</h2>
 <div>
@@ -36,6 +36,7 @@ I'm a frontend developer eager to learn new technologies and build amazing web e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" title="Vercel" alt="Vercel" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" title="Prisma" alt="Prisma" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
   
   
 </div>

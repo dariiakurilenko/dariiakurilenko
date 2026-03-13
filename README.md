@@ -8,7 +8,7 @@
 
 
 ### 👩🏼‍💻About me :
-I'm a frontend developer eager to learn new technologies and build amazing web experiences. Currently studying at the university (3/5). I appreciate teamwork and I am ready to adapt to changes in order to achieve goals with the team.
+I'm a frontend developer eager to learn new technologies and build amazing web experiences. Currently studying at the university (4/5). I appreciate teamwork and I am ready to adapt to changes in order to achieve goals with the team.
 
 
 <h2>💻My tech stack:</h2>
